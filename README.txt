@@ -16,5 +16,3 @@ This "SmartStore" was created by Enrique Yanez for Dr. Curl's CIS 304 class at C
 Purpose: This problem emphasizes the design and coding of an object-oriented application using a
 graphical user interface. Java graphical swing classes and event handling are used to design and
 implement a user friendly interface.
-
-This project is not meant for redistrubution or use without the consent of Enrique Yanez.
